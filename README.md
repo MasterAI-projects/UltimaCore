@@ -137,7 +137,7 @@ Core ideas, API design, and orchestration logic are being finalized before imple
 ## Maintainer
 
 Hardik Sen
-Founder, Master AI  
+Founder, Enthurial 
 India
 
 ---

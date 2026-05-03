@@ -1,6 +1,6 @@
 # UltimaCore ⚡
 
-UltimaCore is a lightweight Python orchestration library that enables multiple AI models to collaborate, review, and improve each other’s outputs.
+UltimaCore is a lightweight Python orchestration library that enables multiple AI models to collaborate, review, and improve each other's outputs.
 
 It is designed to make multi-model teamwork simple, fast, and accessible — even for non-experts.
 
@@ -12,7 +12,7 @@ Most AI tools work like this:
 
 One prompt → One model → One response
 
-Real problem-solving doesn’t work that way.
+Real problem-solving doesn't work that way.
 
 UltimaCore introduces a team-based AI approach, where multiple models work together — just like humans in a team.
 
@@ -24,7 +24,7 @@ UltimaCore allows multiple AI models to:
 
 - Receive the same input
 - Generate independent responses
-- See each other’s outputs
+- See each other's outputs
 - Review, discuss, and improve results together
 - Produce a stronger final answer
 
@@ -51,7 +51,7 @@ result = UltimaCore.asyncio(
 
 print(result)
 
-That’s it.
+That's it.
 
 - No async code
 - No complex setup
@@ -62,7 +62,7 @@ That’s it.
 ## What This Does
 
 - Runs multiple models in parallel
-- Allows models to see each other’s outputs
+- Allows models to see each other's outputs
 - Enables natural, free-form collaboration
 - Returns a unified final result
 
@@ -137,7 +137,7 @@ Core ideas, API design, and orchestration logic are being finalized before imple
 ## Maintainer
 
 Hardik Sen
-Founder, Enthurial 
+Founder, Bitnova 
 India
 
 ---
